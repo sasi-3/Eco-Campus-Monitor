@@ -1,0 +1,5 @@
+{
+  "name": "EcoCampus Monitor",
+  "description": "A comprehensive environmental monitoring platform for educational campuses, featuring real-time data visualization, AI-driven insights, and role-based access for students, faculty, and admins.",
+  "requestFramePermissions": []
+}
